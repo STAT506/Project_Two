@@ -1,0 +1,47 @@
+---
+title: "Project 2 Info"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+```
+
+
+## Project Overview
+
+For project 2, choose a dataset to implement predictive modeling approaches. You should consider at least two different methods (such as decision trees, random forests, linear models, etc..) for your comparison.
+
+The report should contain sections such as introduction, data overview + data visualization, statistical learning procedures, and results and discussion. The following is a rubric that will be used to assess the report. 
+
+All items are graded with the following scheme, where some have multipliers:
+
+1. __No Credit__: Criterion was not addressed or was written in a way that was not understandable.
+
+2. __Beginning__:  Ideas are not clear and supporting ideas are not presented.
+
+3. __Developing__: Ideas are identified but not well supported and developed or are minimally supported and developed.
+
+4. __Advanced__: Ideas are clearly identified and are adequately supported and developed.
+
+| __Report generalities__ | __Points__  |
+|:------------------------|---:|
+|Spelling, grammar, writing clarity, paragraphs & section labels | /12  |
+|Appendix with complete code |  /4 |
+|Citations and Acknowledgments  | /4  |
+| __Introduction__ | __Points__  |
+|Project motivation |  /4 |
+|Research question (Predictive Goal) | /4  | 
+| __Data Overview + Data Visualization__ | __Points__  | 
+|Variables with units and descriptive statistics |  /4 |
+|Titles, Labels, and Captions for Figures | /4  |
+|Figure Clarity | /4  |
+|Figure Quality | /4  |
+| __Statistical Learning Procedures__ | __Points__  |
+|Statement and Defense of Loss Function | /8  |
+|Define models to fit (with complete notation) | /8  |
+| __Results and Discussion__ | __Points__  |
+|Comparison of models and defense of model choice| /8 |
+|Discuss Predictive Results in the context of the research question |  /4 |
+|Scope of Inference: how can the results be generalized? | /4  |
+|Statement about Uncertainty, how is uncertainty included in your predictions| /4  |
